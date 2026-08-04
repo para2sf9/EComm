@@ -1,13 +1,6 @@
+
+
 Ecommerce-Website
-
-HyperText Markup Language (HTML)
-Cascading Style Sheets (CSS)
-JavaScript 
-React.js 
-Node.js 
-Express.js 
-MongoDB
-
 
 What Are E-Commerce Websites?
 E-commerce websites are digital storefronts where transactions between buyers and sellers occur online. These sites enable users to browse products or services, add items to a virtual shopping cart, and complete purchases using online payment systems. E-commerce platforms can cater to various business models such as:
