@@ -29,7 +29,7 @@ app.use("/api/cart", cartRoutes);
 app.use("/api/orders", orderRoutes);
 
 app.get("/", (req, res) => {
-  res.json({ message: "ShopEZ API is running" });
+  res.json({ message: "Ecommerce API is running" });
 });
 
 const PORT = process.env.PORT || 5000;
