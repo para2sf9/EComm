@@ -9,6 +9,7 @@ Express.js
 MongoDB
 
 
+An e-commerce website is an online platform where businesses sell products or services directly to customers, often featuring secure payment processing, product catalogs, and order management.
 
 
 
