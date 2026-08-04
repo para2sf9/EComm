@@ -7,7 +7,7 @@ React.js
 Node.js 
 Express.js 
 MongoDB
-
+<i>.....Thank You For Visiting.....</i>
 <b>Demo Screenshot</>
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e4e3f4a1-985b-4f9a-a2a0-6df1eb50d0cb" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/94d1fe59-47d7-4975-9325-69c89ea8da90" />
@@ -41,10 +41,7 @@ MongoDB
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/7184de68-6f69-4d47-9378-babe4a8d15ea" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d347cad6-48ec-4d46-9747-9a6f9783690e" />
 
-<b>Google Drive Link</b>
-https://drive.google.com/drive/folders/1X8-e2dXzYIYmwLr1QZhR2ABJfuMaxDGd?usp=drive_link
 
-<i>.....Thank You For Visiting.....</i>
 
 
 
